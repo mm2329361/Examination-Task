@@ -1,1 +1,2 @@
-# Examination Task
+-protected internal ده بيبقى متاح لأى كلاس جوا نفس البروجكت او لأى كلاس وارث حتى لو فى بروجكت مختلف
+-private protected ده بيكون متاح للكلاسات الى وارثة منه ويكون فى نفس ال assembly
